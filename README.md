@@ -1,7 +1,7 @@
 <h1 align="center">Proyecto Foro Hub API</h1>
 
 <p align="center">
-  <img src="/ruta/a/tu/imagen.jpg" alt="Foro Hub" width="50%">
+  <img src="src/main/resources/static/img/Inicio-foro-hub.png" alt="Foro Hub" width="50%">
 </p>
 
 ## Tabla de Contenido
@@ -40,13 +40,13 @@ Foro Hub es una aplicación que permite la gestión de foros con funcionalidades
 - Spring Boot DevTools
 - Spring Data JPA
 - Flyway Migration
-- MySQL Driver
+- Postgress Driver
 - Validation
 - Spring Security
 
 ## Cómo Usar la API
 1. Modificar el archivo `application.properties` reemplazando las variables `DB_NAME`, `DB_USER`, `DB_PASSWORD` por el nombre de una base de datos creada, el nombre de usuario y contraseña respectivamente o declarando las variables de entorno de su sistema operativo.
-2. Ejecutar el archivo `ForohubApplication.java`.
+2. Ejecutar el archivo `ApiApplication.java`.
 
 ## Funcionalidades del Sistema
 -  LISTAR PERFIL, TOPICO, RESPUESTA
@@ -61,13 +61,25 @@ Foro Hub es una aplicación que permite la gestión de foros con funcionalidades
 -  MANEJO DE EXCEPCIONES HANDLER
 
 ## URL de Funciones
-<p align="center">
-  <img src="/ruta/a/tu/imagen1.jpg" alt="Función 1" width="30%">
-  <img src="/ruta/a/tu/imagen2.jpg" alt="Función 2" width="30%">
-  <img src="/ruta/a/tu/imagen3.jpg" alt="Función 3" width="30%">
+<p>
+  <img src="src/main/resources/static/img/Descripcion-general-API.png" alt="Función 1" width="30%">
+  <img src="src/main/resources/static/img/pagina-principal.png" alt="Función 2" width="30%">
+</p>
+<p >
+  <img src="src/main/resources/static/img/funciones-perfil.png" alt="Función 2" width="30%">
+  <img src="src/main/resources/static/img/funciones-respuestas.png" alt="Función 2" width="30%">
+</p>
+<p > 
+  <img src="src/main/resources/static/img/funciones-Topicos.png" alt="Función 3" width="30%">
+  <img src="src/main/resources/static/img/metodos-put-post.png" alt="Función 3" width="30%">
 </p>
 
+<p> 
+    <img src="src/main/resources/static/img/metodos-put-post.png" alt="Función 3" width="30%">
+</p>
+
+
 ## Redes Sociales
-- [GitHub](https://github.com/tuusuario)
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- [GitHub](https://github.com/adferatuz)
+- [LinkedIn](https://www.linkedin.com/in/adrian-fernandez-606a21248)
 
